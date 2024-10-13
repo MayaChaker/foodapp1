@@ -1,7 +1,7 @@
 //import React from "react";
 import { useState } from "react";
 import Search from "./components/Search";
-import "./App.css";
+// import "./App.css";
 import Container from "./components/Container";
 import InnerContainer from "./components/InnerContainer";
 import FoodDetails from "./components/FoodDetails";
